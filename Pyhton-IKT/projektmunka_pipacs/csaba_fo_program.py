@@ -1,4 +1,4 @@
-enőr.txt# fo_program.py
+# fo_program.py
 import os
 from vanda_foglalasok import*
 from tibi_mento import*
