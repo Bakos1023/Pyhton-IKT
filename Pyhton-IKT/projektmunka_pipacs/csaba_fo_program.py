@@ -1,4 +1,4 @@
-# fo_program.py
+enőr.txt# fo_program.py
 import os
 from vanda_foglalasok import*
 from tibi_mento import*
@@ -36,7 +36,7 @@ def fo_program():
         ujra = input("\nNyomjon Entert az újrakezdéshez, vagy írjon be bármit a kilépéshez: ").strip()
         if ujra:
             break
-    mentes_foglalasok(foglalasok)
+    mentes_foglalasok(foglalasok "ellenor.txt")
 
 if __name__ == "__main__":
         fo_program()
